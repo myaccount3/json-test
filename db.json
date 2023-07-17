@@ -1,12 +1,10 @@
 {
     "user": [
         {
-            "id": "1",
             "name": "Mike",
             "tel": "123"
         },
         {
-            "id": "2",
             "name": "John",
             "tel": "987"
         }
